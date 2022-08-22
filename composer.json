@@ -2,7 +2,7 @@
     "name": "amohd12/php-mvc-core",
     "autoload": {
         "psr-4": {
-            "Amohd12\\PhpMvcCore\\": "src/"
+            "amohd12\\phpmvc\\": "."
         }
     },
     "require": {}
